@@ -1,14 +1,14 @@
-## Resources
-### Julia resources
+# Resources
+### Julia resources:
 Are you new to [Julia](https://julialang.org)? [Download the latest version](https://julialang.org/downloads/) and checkout the Julia [documentation](https://docs.julialang.org/en/v1/) and [tutorials](https://julialang.org/learning/) to get started. If you don't want to run Julia locally, then checkout [JuliaBox, it's a hosted alternative in the cloud](https://juliabox.com).
 
-### GitHub resources
-Never used [GitHub](https://github.com) before? Checkout out the [GitHub help](https://help.github.com), the [GitHub tutorials](https://www.youtube.com/githubguides) or the [GitHub Learning Lab](https://lab.github.com) for help getting started.
+### GitHub resources:
+Never used [GitHub](https://github.com) before? Checkout out the [GitHub help pages](https://help.github.com), the [GitHub tutorials](https://www.youtube.com/githubguides) or the [GitHub Learning Lab](https://lab.github.com) for help getting started.
 
-### Biological databases and other resources
+### Biological databases and other resources:
 * [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/) is an online literature database holding research articles and books.
 PubMed holds more than 29 million citations for biomedical literature from [MEDLINE](https://www.nlm.nih.gov/bsd/medline.html),
-life science journals, and [online books](https://www.ncbi.nlm.nih.gov/books/). 
+life science journals, and [online books](https://www.ncbi.nlm.nih.gov/books/).
 * [Bionumbers](https://bionumbers.hms.harvard.edu/search.aspx) is a literature database which can be searched for useful quantitative numbers, e.g., [how many Ribosomes are there in an _Escherichia coli_ cell ?](https://bionumbers.hms.harvard.edu/search.aspx?trm=ribosomes+in+E.+coli)
 * [KEGG](https://www.kegg.jp) is a metabolic reaction database with reaction information for several important organisms.
 * [BRENDA](https://www.brenda-enzymes.org) is an enzyme kinetics database that holds a collection of experimentally measured kinetic parameter values.
