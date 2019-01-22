@@ -1,4 +1,4 @@
-# Resources
+## Resources
 ### Julia resources
 Are you new to [Julia](https://julialang.org)? [Download the latest version](https://julialang.org/downloads/) and checkout the Julia [documentation](https://docs.julialang.org/en/v1/) and [tutorials](https://julialang.org/learning/) to get started. If you don't want to run Julia locally, then checkout [JuliaBox, it's a hosted alternative in the cloud](https://juliabox.com).
 
