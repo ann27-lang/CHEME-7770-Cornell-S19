@@ -1,5 +1,9 @@
+# Resources
 ### Julia resources
-Are you new to [Julia](https://julialang.org)? Checkout the Julia [documentation](https://docs.julialang.org/en/v1/) and [tutorials](https://julialang.org/learning/) to get started.  
+Are you new to [Julia](https://julialang.org)? [Download the latest version](https://julialang.org/downloads/) and checkout the Julia [documentation](https://docs.julialang.org/en/v1/) and [tutorials](https://julialang.org/learning/) to get started. If you don't want to run Julia locally, then checkout [JuliaBox, it's a hosted alternative in the cloud](https://juliabox.com).
+
+### GitHub resources
+Never used [GitHub](https://github.com) before? Checkout out the [GitHub help](https://help.github.com), the [GitHub tutorials](https://www.youtube.com/githubguides) or the [GitHub Learning Lab](https://lab.github.com) for help getting started.
 
 ### Biological resources
 * [Bionumbers](https://bionumbers.hms.harvard.edu/search.aspx) is a literature database which can be searched for useful quantitative numbers, e.g., [how many Ribosomes are there in _Escherichia coli_?](https://bionumbers.hms.harvard.edu/search.aspx?trm=ribosomes+in+E.+coli)
