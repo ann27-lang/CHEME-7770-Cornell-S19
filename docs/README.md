@@ -5,6 +5,14 @@ Are you new to [Julia](https://julialang.org)? [Download the latest version](htt
 ### GitHub resources:
 Never used [GitHub](https://github.com) before? Checkout out the [GitHub help pages](https://help.github.com), the [GitHub tutorials](https://www.youtube.com/githubguides) or the [GitHub Learning Lab](https://lab.github.com) for help getting started.
 
+### Text editors:
+* [Atom](https://atom.io) is a cross-platform text editor that can be configured as a Julia editor/Integrated Development Environment (IDE) by
+downloading the appropriate package. [Atom](https://atom.io) can also be used with many other common technical and general computing languages e.g., [Python](https://www.python.org), MATLAB or [Octave](https://www.gnu.org/software/octave/), C/C++, PHP, [Javascript/Typescript](https://www.typescriptlang.org), etc.
+* [Juno](http://junolab.org) is a dedicated [Julia](https://julialang.org) editor that is built upon [Atom](https://atom.io).
+* [Visual Studio Code](https://code.visualstudio.com) is a free cross-platform text editor from [Microsoft](https://www.microsoft.com/en-us/)
+that can be used for [Julia](https://julialang.org) development, and for many other technical or general computing languages e.g., [Python](https://www.python.org), MATLAB or [Octave](https://www.gnu.org/software/octave/), C/C++, PHP, [Javascript/Typescript](https://www.typescriptlang.org), etc.
+
+
 ### Biological databases and other resources:
 * [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/) is an online literature database holding research articles and books.
 PubMed holds more than 29 million citations for biomedical literature from [MEDLINE](https://www.nlm.nih.gov/bsd/medline.html),
