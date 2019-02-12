@@ -1,4 +1,11 @@
 # Resources
+
+### Ordinary Differential Equations (ODEs) examples
+* [Example](https://github.com/mvilkhov/ODE-Example) code (in Julia and Matlab) from the Mike Vilkhovoy guest lecture.
+* [Gene regulatory network simulation kit (GRNSimKit)](https://github.com/varnerlab/GRNSimKit.git) is a
+[Julia package](https://docs.julialang.org/en/v1/stdlib/Pkg/index.html) for simulating simple gene regulatory networks.
+GRNSimKit uses a [JSON](https://github.com/JuliaIO/JSON.jl.git) model specification. Check out the [GRNSimKit docs](https://varnerlab.github.io/GRNSimKit/).
+
 ### Julia resources:
 Are you new to [Julia](https://julialang.org)? [Download the latest version](https://julialang.org/downloads/) and checkout the Julia [documentation](https://docs.julialang.org/en/v1/) and [tutorials](https://julialang.org/learning/) to get started. If you don't want to run Julia locally, then checkout [JuliaBox, it's a hosted alternative in the cloud](https://juliabox.com).
 
@@ -8,7 +15,7 @@ Never used [GitHub](https://github.com) before? Checkout out the [GitHub help pa
 ### Text editors:
 * [Atom](https://atom.io) is a cross-platform text editor that can be configured as a Julia editor/Integrated Development Environment (IDE) by
 downloading the appropriate package. [Atom](https://atom.io) can also be used with many other common technical and general computing languages e.g., [Python](https://www.python.org), MATLAB or [Octave](https://www.gnu.org/software/octave/), C/C++, PHP, [Javascript/Typescript](https://www.typescriptlang.org), etc.
-* [Juno](http://junolab.org) is a dedicated [Julia](https://julialang.org) editor that is built upon [Atom](https://atom.io).
+* [Juno](http://junolab.org) is a dedicated [Julia](https://julialang.org) editor that is built on top of [Atom](https://atom.io). [Juno](http://junolab.org) allows you to run the Julia REPL inside Atom (instead of a separate window), and gives access to the debugger and other tools.  
 * [Visual Studio Code](https://code.visualstudio.com) is a free cross-platform text editor from [Microsoft](https://www.microsoft.com/en-us/)
 that can be used for [Julia](https://julialang.org) development, and for many other technical or general computing languages e.g., [Python](https://www.python.org), MATLAB or [Octave](https://www.gnu.org/software/octave/), C/C++, PHP, [Javascript/Typescript](https://www.typescriptlang.org), etc.
 
