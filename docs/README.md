@@ -1,7 +1,7 @@
 # Resources
 
 ### Ordinary Differential Equations (ODEs) examples
-* [Example](https://github.com/mvilkhov/ODE-Example) code (in Julia and Matlab) from the Mike Vilkhovoy guest lecture.
+* [Mike Vilkhovoy's guest lecture example](https://github.com/mvilkhov/ODE-Example) code (in Julia and Matlab).
 * [Gene regulatory network simulation kit (GRNSimKit)](https://github.com/varnerlab/GRNSimKit.git) is a
 [Julia package](https://docs.julialang.org/en/v1/stdlib/Pkg/index.html) for simulating simple gene regulatory networks.
 GRNSimKit uses a [JSON](https://github.com/JuliaIO/JSON.jl.git) model specification. Check out the [GRNSimKit docs](https://varnerlab.github.io/GRNSimKit/).
