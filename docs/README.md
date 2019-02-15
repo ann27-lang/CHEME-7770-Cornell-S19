@@ -1,5 +1,8 @@
 # Resources
 
+### Problem set solutions
+* [Problem set 1 solution](https://github.com/varnerlab/CHEME-7770-Cornell-S19/tree/master/src/PS1)
+
 ### Ordinary Differential Equations (ODEs) examples
 * [Mike Vilkhovoy's guest lecture example](https://github.com/mvilkhov/ODE-Example) code (in Julia and Matlab).
 * [Gene regulatory network simulation kit (GRNSimKit)](https://github.com/varnerlab/GRNSimKit.git) is a
