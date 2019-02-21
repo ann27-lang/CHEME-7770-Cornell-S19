@@ -12,7 +12,7 @@
 * [Gene regulatory network simulation kit (GRNSimKit)](https://github.com/varnerlab/GRNSimKit.git) is a
 [Julia package](https://docs.julialang.org/en/v1/stdlib/Pkg/index.html) for simulating simple gene regulatory networks.
 GRNSimKit uses a [JSON](https://github.com/JuliaIO/JSON.jl.git) model specification. Check out the [GRNSimKit docs](https://varnerlab.github.io/GRNSimKit/).
-* [Core Ecoli Model Kit (CoreEcoliModel)](https://github.com/varnerlab/CoreEcoliModelKit.git) is a Julia package](https://docs.julialang.org/en/v1/stdlib/Pkg/index.html) for doing flux balance analysis (and other constraint based modeling) calculations. Check out the [CoreEcoliModelKit docs](https://varnerlab.github.io/CoreEcoliModelKit/)
+* [Core Ecoli Model Kit (CoreEcoliModel)](https://github.com/varnerlab/CoreEcoliModelKit.git) is a [Julia package](https://docs.julialang.org/en/v1/stdlib/Pkg/index.html) for doing flux balance analysis (and other constraint based modeling) calculations. Check out the [CoreEcoliModelKit docs](https://varnerlab.github.io/CoreEcoliModelKit/)
 
 ### Julia resources:
 Are you new to [Julia](https://julialang.org)? [Download the latest version](https://julialang.org/downloads/) and checkout the Julia [documentation](https://docs.julialang.org/en/v1/) and [tutorials](https://julialang.org/learning/) to get started. If you don't want to run Julia locally, then checkout [JuliaBox, it's a hosted alternative in the cloud](https://juliabox.com).
