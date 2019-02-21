@@ -1,4 +1,4 @@
-### PS1 Solution
+## PS1 Solution
 To execute the problem set 1 solution, start the Julia REPL and run the command:
 
     julia> include("PS1-solution.jl")
