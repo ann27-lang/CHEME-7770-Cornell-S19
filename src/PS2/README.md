@@ -8,10 +8,10 @@ The ``Q*.jl`` scripts produce a plot of ``P*`` versus time for the default or br
 To simulate the broken network case, change the ``simulation_case_flag`` at the top of the
 script to:
 
-  ``jl
+  ```jl
     simulation_case_flag = :broken
-  ``
-(or back to ``:default`` for the default circuit). 
+  ```
+(or back to ``:default`` for the default circuit).
 
 ### Requirements
 To execute the solution scripts you need to have the ``GRNSimKit`` package installed. ``GRNSimKit`` uses a ``JSON`` formatted model schematic to structure the gene regulatory model, and provides several methods to solve the model equations. See the
