@@ -4,6 +4,9 @@
 * [Problem set 1 solution](https://github.com/varnerlab/CHEME-7770-Cornell-S19/tree/master/src/PS1)
 * [Problem set 2 solution](https://github.com/varnerlab/CHEME-7770-Cornell-S19/tree/master/src/PS2)
 
+### How do we do basic Flux Balance Analysis (FBA) calculations?
+In MATLAB, the [COBRA toolbox](https://opencobra.github.io/cobratoolbox/stable/) is a great resource for doing these calculations (and much much more). We have also created a [Julia](https://julialang.org) wrapper called [Flux.jl](https://github.com/varnerlab/CHEME-7770-Cornell-S19/tree/master/src/PS3/Flux.jl), which uses [GLPK](https://github.com/JuliaOpt/GLPK.jl), to do basic FBA calculations. 
+
 ### Ordinary Differential Equations (ODEs) example
 * [Mike Vilkhovoy's guest lecture example](https://github.com/mvilkhov/ODE-Example) code (in Julia and Matlab).
 
