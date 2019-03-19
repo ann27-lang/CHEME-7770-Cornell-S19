@@ -3,7 +3,7 @@
 ### Problem set solutions
 * [Problem set 1 solution](https://github.com/varnerlab/CHEME-7770-Cornell-S19/tree/master/src/PS1)
 * [Problem set 2 solution](https://github.com/varnerlab/CHEME-7770-Cornell-S19/tree/master/src/PS2)
-* [Problem set 2 solution](https://github.com/varnerlab/CHEME-7770-Cornell-S19/tree/master/src/PS3)
+* [Problem set 3 solution](https://github.com/varnerlab/CHEME-7770-Cornell-S19/tree/master/src/PS3)
 
 ### How do we do basic Flux Balance Analysis (FBA) calculations?
 The [COBRA toolbox](https://opencobra.github.io/cobratoolbox/stable/) is a great resource for doing these calculations (and much much more) in [MATLAB](https://www.mathworks.com/products/matlab.html). We have also created a [Julia](https://julialang.org) wrapper called [Flux.jl](https://github.com/varnerlab/CHEME-7770-Cornell-S19/tree/master/src/PS3/Flux.jl), which uses [GLPK](https://github.com/JuliaOpt/GLPK.jl), to do basic FBA calculations.
